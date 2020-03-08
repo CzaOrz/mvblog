@@ -1,6 +1,6 @@
 ## 伪静态博客框架
 
-![运行流程]( https://ae01.alicdn.com/kf/H485cf804ba92481ba9456e9fc454563aZ.png )
+![框架流程](https://ae01.alicdn.com/kf/H485cf804ba92481ba9456e9fc454563aZ.png)
 
 点击查看: [demo1](https://czaorz.github.io/ioco/blog/blogV1.html)
 
